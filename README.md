@@ -13,6 +13,18 @@
 **Never blindly pick a speech model.**  
 VoxBench is an automated, reproducible benchmarking platform designed to evaluate and compare leading Text-to-Speech (TTS) models under demanding real-world conversational and clinical IVR constraints.
 
+## Demo Video
+
+<div align="center">
+  <a href="https://youtu.be/4wrn11JgH5g?si=ikBuAQupE0jEw025">
+    <img src="https://img.youtube.com/vi/4wrn11JgH5g/maxresdefault.jpg" alt="Watch the VoxBench demo video" width="800">
+  </a>
+  <br>
+  <a href="https://youtu.be/4wrn11JgH5g?si=ikBuAQupE0jEw025">▶ Watch the VoxBench Demo Video</a>
+</div>
+
+**Repository:** [Download or clone VoxBench from GitHub](https://github.com/Deepak-Kumbhar2006/VoxBench.git)
+
 [Architecture](#-system-architecture) • [Benchmarking Protocol](#-benchmarking-protocol) • [Supported Models](#-supported-models) • [Quickstart](#-quickstart-guide) • [API Reference](#-api-reference)
 
 ---
@@ -161,7 +173,7 @@ VoxBench grades every model run through four objective dimensions:
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/VoxBench.git
+git clone https://github.com/Deepak-Kumbhar2006/VoxBench.git
 cd VoxBench
 ```
 
